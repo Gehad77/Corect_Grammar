@@ -1,1 +1,1 @@
-# Corect_Grammar
+# Correct grammar errors
